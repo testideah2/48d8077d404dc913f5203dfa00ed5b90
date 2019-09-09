@@ -3,9 +3,9 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "ru.auction.saitov"
     versionCode = "10"
-    version     = "1.0.0">
+    version     = "1.1.0">
 
-<name>ТЕСТ. Аукцион Брошенных Доменов</name>
+<name>Аукцион Брошенных Доменов</name>
 
 <description>
     Биржа Брошенных доменов
